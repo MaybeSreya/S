@@ -1,10 +1,10 @@
-.token--linea {
+.token--bitci {
   display: inline-block;
   width: 1em;
   height: 1em;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M18.26 22H2.53V5.246h3.6v13.507h12.13zm0-13.51c1.773 0 3.21-1.452 3.21-3.245C21.47 3.453 20.033 2 18.26 2s-3.21 1.453-3.21 3.245s1.437 3.246 3.21 3.246'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' fill-rule='evenodd' d='M6.376 2h3.125v.625h1.875V2h3.125v.638a4.688 4.688 0 0 1 2.363 8.525a5.313 5.313 0 0 1-2.05 10.212H14.5V22h-3.125v-.625H9.501V22H6.376v-.625h-2.5L7.626 17H5.751V7h1.875l-3.75-4.375h2.5zm3.125 4.375h3.125a1.875 1.875 0 1 1 0 3.75H9.501zm0 6.875h4.688a2.187 2.187 0 1 1 0 4.375H9.5z' clip-rule='evenodd'/%3E%3C/svg%3E");
 }
 
 .token--sui {
